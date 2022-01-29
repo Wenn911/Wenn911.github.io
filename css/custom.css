@@ -59,7 +59,7 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-item {
-    margin: 0 30px;
+    margin: 0 18px;
 }
 
 .phone {
@@ -90,7 +90,7 @@ h1 {
 
 .top-wrapper {
     display: flex;
-    padding-top: 135px;
+    padding-top: 80px;
 }
 
 .top-l {
@@ -101,7 +101,6 @@ h1 {
 
 .top-r {
     display: flex;
-
 }
 
 .social-networks {
@@ -124,9 +123,9 @@ h1 {
     margin: 22px 0;
 }
 
-.top-r > img {
-    max-width: calc(100% - 90px);
-}
+/* .top-r > img {
+    
+} */
 
 .top-l p {
     font-size: 14px;
@@ -820,6 +819,14 @@ section.team-section .h2-tm {
     line-height: 124%;
     margin-bottom: 18px;
     text-align: center;
+}
+
+.contacts a {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 124%;
+    margin-bottom: 18px;
+    text-align: center; 
 }
 
 p.p-work-schedule {
